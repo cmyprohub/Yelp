@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python 
 
 #https://www.yelp.com/dataset/download
 import sys
